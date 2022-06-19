@@ -1,0 +1,13 @@
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.exe
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.deps.json
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.dll
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\bin\Debug\netcoreapp3.1\Recursion.pdb
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.AssemblyReference.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.dll
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.pdb
+C:\Users\bryan\Desktop\Estructura Datos C#\Recursion\Recursion\obj\Debug\netcoreapp3.1\Recursion.genruntimeconfig.cache
