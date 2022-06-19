@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bryan\\Desktop\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj": {}
+    "C:\\Users\\bryan\\Desktop\\Todo 2022\\.NET\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bryan\\Desktop\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj": {
+    "C:\\Users\\bryan\\Desktop\\Todo 2022\\.NET\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bryan\\Desktop\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj",
+        "projectUniqueName": "C:\\Users\\bryan\\Desktop\\Todo 2022\\.NET\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj",
         "projectName": "ListasLigadas",
-        "projectPath": "C:\\Users\\bryan\\Desktop\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj",
+        "projectPath": "C:\\Users\\bryan\\Desktop\\Todo 2022\\.NET\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\ListasLigadas.csproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bryan\\Desktop\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\obj\\",
+        "outputPath": "C:\\Users\\bryan\\Desktop\\Todo 2022\\.NET\\Estructura Datos C#\\ListasLigadas\\ListasLigadas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
