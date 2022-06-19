@@ -1,0 +1,13 @@
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.exe
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.deps.json
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.runtimeconfig.json
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.runtimeconfig.dev.json
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.dll
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\bin\Debug\netcoreapp3.1\ListasLigadas.pdb
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.csproj.AssemblyReference.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.AssemblyInfo.cs
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.dll
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.pdb
+C:\Users\bryan\Desktop\Estructura Datos C#\ListasLigadas\ListasLigadas\obj\Debug\netcoreapp3.1\ListasLigadas.genruntimeconfig.cache
